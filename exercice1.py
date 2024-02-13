@@ -14,6 +14,6 @@ class OrangeMax(Boisson):
         self._marque = marque
 
 
-# Modifiez la classe enfant pour éviter que le code donne unw Erreur de Type
+# Modifiez la classe enfant pour éviter que le code donne une erreur de Type
 orange_max = OrangeMax("Orange Max")
 orange_max.imprimer_ingredient()
